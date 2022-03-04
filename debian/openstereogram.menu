@@ -1,4 +1,0 @@
-?package(openstereogram):needs="X11" \
-        section="Applications/Graphics"\
-        title="OpenStereogram" command="/usr/bin/OpenStereogram"\
-        icon="/usr/share/pixmaps/openstereogram.xpm"

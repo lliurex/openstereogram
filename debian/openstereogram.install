@@ -1,6 +1,0 @@
-dist/OpenStereogram.jar usr/share/openstereogram
-debian/lintian/openstereogram usr/share/lintian/overrides
-debian/*.xpm usr/share/pixmaps
-debian/*.png usr/share/icons/hicolor/48x48/apps/
-debian/*.desktop usr/share/applications
-images/* usr/share/openstereogram/images/
