@@ -27,7 +27,6 @@ public class MainGUI extends javax.swing.JFrame {
 
     private static final long serialVersionUID = 5494881572447296266L;
     private StereogramWindow stereogramWindow;
-    private String initialResourceDir = "/usr/share/openstereogram/";
 
     /** Creates new form MainGUI */
     public MainGUI() {
@@ -103,11 +102,11 @@ public class MainGUI extends javax.swing.JFrame {
         helpSeparator = new javax.swing.JSeparator();
         aboutMenuItem = new javax.swing.JMenuItem();
 
-        mapFileChooser.setCurrentDirectory(new File(initialResourceDir+"./images/depthMaps/"));
+        mapFileChooser.setCurrentDirectory(new File("./images/depthMaps/"));
         mapFileChooser.setDialogTitle("Open depth map");
         mapFileChooser.setFileFilter(new FileNameExtensionFilter("Image file (png, jpg, jpeg, gif, bmp)", "png", "jpg", "jpeg", "gif", "bmp"));
 
-        patternFileChooser.setCurrentDirectory(new File(initialResourceDir+"./images/texturePatterns/"));
+        patternFileChooser.setCurrentDirectory(new File("./images/texturePatterns/"));
         patternFileChooser.setDialogTitle("Open texture pattern");
         patternFileChooser.setFileFilter(new FileNameExtensionFilter("Image file (png, jpg, jpeg, gif, bmp)", "png", "jpg", "jpeg", "gif", "bmp"));
 
