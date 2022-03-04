@@ -1,0 +1,3 @@
+version=3
+opts="uversionmangle=s/_/+/" \
+http://code.google.com/p/openstereogram/downloads/list?can=1 .*/OpenStereogram(\d[\d\.]*_\d*)\.(?:zip|tgz|tbz2|txz|tar\.gz|tar\.bz2|tar\.xz)

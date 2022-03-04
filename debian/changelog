@@ -1,0 +1,28 @@
+openstereogram (0.1+20080921-4) focal; urgency=medium
+
+  * Include sample textures & depthmaps
+  * Set default images dir
+
+ -- M.Angel Juan <m.angel.juan@gmail.com>  Fri, 04 Mar 2022 13:16:43 +0100
+
+openstereogram (0.1+20080921-3) unstable; urgency=medium
+
+  * Team upload.
+  * Fixed the build failure with Java 9 (Closes: #893381)
+  * Standards-Version updated to 4.2.1
+  * Switch to debhelper level 11
+  * Use salsa.debian.org Vcs-* URLs
+
+ -- Emmanuel Bourg <ebourg@apache.org>  Tue, 13 Nov 2018 23:57:22 +0100
+
+openstereogram (0.1+20080921-2) unstable; urgency=low
+
+  * Fixed typo in .desktop file, project name is OpenStereogram
+
+ -- Scott Howard <showard@debian.org>  Tue, 20 Mar 2012 00:02:27 -0400
+
+openstereogram (0.1+20080921-1) unstable; urgency=low
+
+  * Initial release. (Closes: #656565)
+
+ -- Scott Howard <showard@debian.org>  Wed, 25 Jan 2012 20:22:46 -0500

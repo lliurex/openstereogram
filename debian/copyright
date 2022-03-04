@@ -1,0 +1,38 @@
+Format: http://dep.debian.net/deps/dep5
+Upstream-Name: openstereogram
+Upstream-contact: gustavofarias@gmail.com
+Source: http://code.google.com/p/openstereogram/
+
+Files: *
+Copyright: Copyright 2007-2008 Gustavo de Farias <gustavofarias@gmail.com>
+License: BSD-2-clause
+
+Files: debian/*
+Copyright: Copyright 2012 Scott Howard <showard@debian.org>
+License: BSD-2-clause
+
+License: BSD-2-clause
+ Redistribution  and use in source and binary forms, with or with‐
+ out modification, are permitted provided that the following  con‐
+ ditions are met:
+ .
+     Redistributions  of  source  code must retain the above copy‐
+ right notice, this list of  conditions  and  the  following  dis‐
+ claimer.
+     Redistributions in binary form must reproduce the above copy‐
+ right notice, this list of  conditions  and  the  following  dis‐
+ claimer in the documentation and/or other materials provided with
+ the distribution.
+ .
+ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND  CONTRIBU‐
+ TORS  AS IS AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT
+ NOT LIMITED TO, THE IMPLIED  WARRANTIES  OF  MERCHANTABILITY  AND
+ FITNESS  FOR  A  PARTICULAR  PURPOSE  ARE DISCLAIMED. IN NO EVENT
+ SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY  DI‐
+ RECT,  INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+ DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE
+ GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS IN‐
+ TERRUPTION) HOWEVER  CAUSED  AND  ON  ANY  THEORY  OF  LIABILITY,
+ WHETHER  IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLI‐
+ GENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF  THE  USE  OF  THIS
+ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
